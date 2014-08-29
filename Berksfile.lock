@@ -9,16 +9,16 @@ DEPENDENCIES
     git: git://github.com/lusis/chef-logstash.git
     revision: 0facb1dae7b96b1d6c9740ce0e1e79c099bca64f
   opsworks_elasticsearch
-    git: git://github.com/hautelook/chef-opsworks-elasticsearch.git
+    git: git://github.com/tomvachon/chef-opsworks-elasticsearch.git
     revision: e7aa316b35747ee3d7dd65ff0b40f666ca241094
   opsworks_kibana
-    git: git://github.com/hautelook/chef-opsworks-kibana.git
+    git: git://github.com/tomvachon/chef-opsworks-kibana.git
     revision: 30f027899430e3b69755b33cf10112a1d891b8ef
   opsworks_logstash
-    git: git://github.com/hautelook/chef-opsworks-logstash.git
+    git: git://github.com/tomvachon/chef-opsworks-logstash.git
     revision: f2e3f93448120ed9f51b1ed9e287a5d76826c544
   opsworks_utils
-    git: git://github.com/hautelook/chef-opsworks-utils.git
+    git: git://github.com/tomvachon/chef-opsworks-utils.git
     revision: e7bc204e3d3b1d05445474b80b06358a9c564f87
 
 GRAPH
